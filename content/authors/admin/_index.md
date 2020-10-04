@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Ajay Kumar Koli
+title: Dr. Ajay   Koli
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: ex-Assistant Professor of Research Methods using R
+
 
 # Organizations/Affiliations
-organizations:
-- name: Pune Institute of Business Management
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include waste & sustainability.
+bio: My work includes discard studies & data science using R.
 
 interests:
 - R
-- Research methods
-- Waste
+- Data science
+- Discard studies
 
 education:
   courses:
@@ -48,21 +45,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:koliajaykumar@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/koliajaykr
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/koliajaykr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,6 +71,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+🚨**Right now  seeking a full time teaching faculty position.** 🚨
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Earlier I worked as an Assistant Professor of Research Methodology and Sustainability at the Pune Institute of Business Management, Pune (from 11 Feb 2019 to 11 August 2020). 
+
+I further like to teach research methods (quantitative as well as qualitative) using [R](https://www.r-project.org/). I used open-source software R to promote reproducibility and transparency in research.
+
+I like to read, think and write about waste, environment, & sanitation workers from the perspective of sustainability science.
