@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = "PIBM"
-  company_url = ""
+  company_url = "https://www.pibm.in/index.aspx"
   location = "Pune"
   date_start = "2019-02-11"
   date_end = "2020-08-11"
@@ -32,4 +32,18 @@ date_format = "Jan 2006"
   * Research
   """
 
+[[experience]]
+  title = "Assistant Professor"
+  company = "Vishwakarma University"
+  company_url = "https://www.vupune.ac.in/"
+  location = "Pune"
+  date_start = "2021-01-14"
+  date_end = ""
+  description = """Full time faculty of Research Methods and Sustainable Tourism.
+  Responsibilities include:
+  
+  * Teaching graduate and post-graduate course
+  * Mentoring 
+  * Research
+  """
 +++
