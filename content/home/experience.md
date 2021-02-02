@@ -18,16 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Assistant Professor"
-  company = "PIBM"
-  company_url = "https://www.pibm.in/index.aspx"
-  location = "Pune"
-  date_start = "2019-02-11"
-  date_end = "2020-08-11"
-  description = """Full time faculty of Marketing Research and Sustainability Management.
-  Responsibilities include:
+  title = "Assistant Research Co-ordinator"
+  company = "The University of Trans-Disciplinary Health Sciences and Technology (TDU) Bengaluru"
+  company_url = "http://tdu.edu.in/"
+  location = "Bengaluru"
+  date_start = "2019-04-11"
+  date_end = "2020-09-11"
+  description = """Supervised graduate and undergraduate students working on research projects on transposable element analysis in rice genome.
   
-  * Teaching Post-graduate course
+  Responsibilities include:
+  * Planned and executed research techniques, procedures and tests
   * Mentoring 
   * Research
   """
