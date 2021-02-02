@@ -66,6 +66,15 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-12-05"
   date_end = ""
-  description = "for poster in International Consultative Meeting on Seribiotechnology"
-  
+  description = "in International Consultative Meeting on Seribiotechnology"
+ 
+   [[item]]
+  organization = "SciGenom Research Foundation"
+  organization_url = ""
+  title = "GYAN Scholarship Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-05"
+  date_end = ""
+  description = "in NextGen Genomics, Biology, Bioinformatics and Technologies (NGBT) Conference, Mumbai"
 +++
