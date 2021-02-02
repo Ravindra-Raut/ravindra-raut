@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-09-02"
   date_end = "2019-08-30"
-  description = ""
+  description = "for PhD research"
 
 [[item]]
   organization = "Minister of Human Resource Development"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-01-01"
   date_end = "2013-01-01"
-  description = ""
+  description = "for MTech research"
   
 [[item]]
   organization = "Indian Council of Medical Research"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-07-01"
   date_end = ""
-  description = ""
+  description = "not availed due to availabilty of Institute fellowship"
 
 [[item]]
   organization = "Indian Council of Agricultural Research"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-04-01"
   date_end = ""
-  description = ""
+  description = "It determines the eligibility for Lecturer/Assistant Professor"
   
   [[item]]
   organization = "Institute of Bioresources and Sustainable Development, Imphal "
