@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Graduate Aptitude Test in Engineering (GATE)"
   url = ""
   certificate_url = ""
-  date_start = "2011-07-23"
-  date_end = "2013-05-08"
+  date_start = "2011-01-01"
+  date_end = "2013-01-01"
   description = ""
   
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "ICMR-Junior Research Fellowships (JRF)"
   url = ""
   certificate_url = ""
-  date_start = "2014"
-  date_end = ""
+  date_start = "2014-01-01"
+  date_end = "2014-01-01"
   description = ""
 
 +++
