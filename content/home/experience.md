@@ -62,4 +62,13 @@ date_format = "Jan 2006"
   * Exam and Assingments evaluation
   """
   
+  [[experience]]
+  title = "Intern"
+  company = "Bio Egicore, Lucknow"
+  company_url = ""
+  location = "Lucknow"
+  date_start = "2014-08-11"
+  date_end = "2014-11-11"
+  description = """Developed and released database on Ayurvedic Plant Database with its Medicinal Applications, A-plants 1.0: (Home remedies by our grand’s).
+  """
 +++
