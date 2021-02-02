@@ -20,11 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My work includes transposon studies using R, Python, Linux and Bioinformatics tools.
 
-skills:
+interests:
 - Transposable Elements
 - Programming languages
 - NGS data analysis
 - Computational Biology 
+
+Skills:
 - Programming languages (R, Python, Bash, Unix/Linux, Perl)
 - Computational Biology (Secondary and tertiary analysis of NGS data)
 - Functional genomics (Bioconductor, Galaxy)
