@@ -44,6 +44,22 @@ date_format = "Jan 2006"
   
   * Teaching 
   * Mentoring 
-  * Exam, Assingment and course evaluation
+  * Exam, Assingments and course evaluation
   """
+  
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "The University of Trans-Disciplinary Health Sciences and Technology (TDU) Bengaluru"
+  company_url = "http://tdu.edu.in/"
+  location = "Bengaluru"
+  date_start = "2017-02-11"
+  date_end = "2017-06-11"
+  description = """Assisted for Ecology and Evolution course to MSc Students for chapters Introduction to Bioinformatics and transposons.
+  
+  Responsibilities include:
+  * Teaching 
+  * Mentoring 
+  * Exam and Assingments evaluation
+  """
+  
 +++
