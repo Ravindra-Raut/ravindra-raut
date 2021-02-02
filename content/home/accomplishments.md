@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-04-01"
   date_end = ""
-  description = "It determines the eligibility for Lecturer/Assistant Professor"
+  description = "It gives the eligibility for Lecturer/Assistant Professor post"
   
   [[item]]
   organization = "Institute of Bioresources and Sustainable Development, Imphal "
