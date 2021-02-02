@@ -29,23 +29,23 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "University Grants Commission (UGC)"
+  organization = "Minister of Human Resource Development"
   organization_url = ""
-  title = "Rajiv Gandhi National Junior Research Fellowship"
+  title = "Graduate Aptitude Test in Engineering (GATE)"
   url = ""
   certificate_url = ""
-  date_start = "2011-03-01"
-  date_end = "2015-03-01"
+  date_start = "2011-07-23"
+  date_end = "2013-05-08"
   description = ""
   
 [[item]]
-  organization = "Pondicherry University"
+  organization = "Indian Council of Medical Research"
   organization_url = ""
-  title = "MBA Semester Topper Scholarship"
+  title = "ICMR-Junior Research Fellowships (JRF)"
   url = ""
   certificate_url = ""
-  date_start = "2006-08-01"
-  date_end = "2008-08-01"
+  date_start = "2014"
+  date_end = ""
   description = ""
 
 +++
