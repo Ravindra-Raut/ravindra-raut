@@ -26,17 +26,6 @@ interests:
 - NGS data analysis
 - Computational Biology 
 
-Skills:
-- Programming languages (R, Python, Bash, Unix/Linux, Perl)
-- Computational Biology (Secondary and tertiary analysis of NGS data)
-- Functional genomics (Bioconductor, Galaxy)
-- Repeats Analysis (RepeatModeler, RepeatMasker, MISA)
-- Data visualization (ggPlot2, Plotly, IGV)
-- Phylogenetic Analysis (MEGA X)
-- Molecular Docking (AudoDock Vina)
-- Molecular Simulation (GROMACS)
-- Digital Image Processing (ImageJ, Fiji, & CellProfiler)
-
 education:
   courses:
   - course: PhD in Biotechnology
@@ -86,4 +75,15 @@ user_groups:
 ---
 
 I am a Ph D. candidate with research experience in experimental and computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular cell biology, genetics. I'm always looking to connect with people in related fields and explore opportunities.
+
+Skills:
+- Programming languages ([R](https://www.r-project.org/), Python, Bash, Unix/Linux, Perl)
+- Computational Biology (Secondary and tertiary analysis of NGS data)
+- Functional genomics (Bioconductor, Galaxy)
+- Repeats Analysis (RepeatModeler, RepeatMasker, MISA)
+- Data visualization (ggPlot2, Plotly, IGV)
+- Phylogenetic Analysis (MEGA X)
+- Molecular Docking (AudoDock Vina)
+- Molecular Simulation (GROMACS)
+- Digital Image Processing (ImageJ, Fiji, & CellProfiler)
 
