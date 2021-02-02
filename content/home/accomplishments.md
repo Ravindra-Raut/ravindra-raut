@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2012-12-05"
-  date_end = "2012-12-07"
-  description = "for poster in nternational Consultative Meeting on Seribiotechnology"
+  date_end = ""
+  description = "for poster in International Consultative Meeting on Seribiotechnology"
   
 +++
