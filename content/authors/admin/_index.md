@@ -24,7 +24,17 @@ interests:
 - Transposable Elements
 - Programming languages
 - NGS data analysis
-- Computational Biology
+- Computational Biology 
+skills:
+- Programming languages (R, Python, Bash, Unix/Linux, Perl)
+- Computational Biology (Secondary and tertiary analysis of NGS data)
+- Functional genomics (Bioconductor, Galaxy)
+- Repeats Analysis (RepeatModeler, RepeatMasker, MISA)
+- Data visualization (ggPlot2, Plotly, IGV)
+- Phylogenetic Analysis (MEGA X)
+- Molecular Docking (AudoDock Vina)
+- Molecular Simulation (GROMACS)
+- Digital Image Processing (ImageJ, Fiji, & CellProfiler)
 
 education:
   courses:
@@ -41,18 +51,6 @@ education:
     institution: SRTM University Nanded, India
     year: 2007   
     
-skills:
-- Programming languages (R, Python, Bash, Unix/Linux, Perl)
-- Computational Biology (Secondary and tertiary analysis of NGS data)
-- Functional genomics (Bioconductor, Galaxy)
-- Repeats Analysis (RepeatModeler, RepeatMasker, MISA)
-- Data visualization (ggPlot2, Plotly, IGV)
-- Phylogenetic Analysis (MEGA X)
-- Molecular Docking (AudoDock Vina)
-- Molecular Simulation (GROMACS)
-- Digital Image Processing (ImageJ, Fiji, & CellProfiler)
-  
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
