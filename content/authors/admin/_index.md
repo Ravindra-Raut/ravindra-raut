@@ -76,14 +76,14 @@ user_groups:
 
 I am a Ph D. candidate with research experience in experimental and computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular cell biology, genetics. I'm always looking to connect with people in related fields and explore opportunities.
 
-Skills:
-- Programming languages ([R](https://www.r-project.org/), Python, Bash, Unix/Linux, Perl)
+**Skills**
+- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), Bash, Unix/Linux, [Perl](https://www.perl.org/))
 - Computational Biology (Secondary and tertiary analysis of NGS data)
-- Functional genomics (Bioconductor, Galaxy)
-- Repeats Analysis (RepeatModeler, RepeatMasker, MISA)
-- Data visualization (ggPlot2, Plotly, IGV)
-- Phylogenetic Analysis (MEGA X)
-- Molecular Docking (AudoDock Vina)
-- Molecular Simulation (GROMACS)
-- Digital Image Processing (ImageJ, Fiji, & CellProfiler)
+- Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/))
+- Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/))
+- Data visualization ([ggPlot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))
+- Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/))
+- Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/))
+- Molecular Simulation ([GROMACS](https://www.gromacs.org/))
+- Digital Image Processing ([ImageJ](https://imagej.net/ImageJ), [Fiji](https://imagej.net/Fiji), & [CellProfiler](https://cellprofiler.org/))
 
