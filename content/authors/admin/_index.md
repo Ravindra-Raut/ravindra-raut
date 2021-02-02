@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ajay Koli
+title: Ravindra Raut
 
 # Username (this should match the folder name)
 authors:
@@ -10,35 +10,48 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: PhD Student
 
 
 organizations:
-- name: Vishwakarma University
-  url: https://www.vupune.ac.in/
+- name: National Institute of Technology Durgapur
+  url: https://www.nitdgp.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work includes discard studies & data science using R.
+bio: My work includes transposon studies using R, Python, Linux and Bioinformatics tools.
 
 interests:
-- R
-- Data science
-- Discard studies
+- Transposable Elements
+- Programming languages
+- NGS data analysis
+- Computational Biology
+
+skills:
+- Programming languages (R, Python, Bash, Unix/Linux, Perl)
+- Computational Biology (Secondary and tertiary analysis of NGS data)
+- Functional genomics (Bioconductor, Galaxy)
+- Repeats Analysis (RepeatModeler, RepeatMasker, MISA)
+- Data visualization (ggPlot2, Plotly, IGV)
+- Phylogenetic Analysis (MEGA X)
+- Molecular Docking (AudoDock Vina)
+- Molecular Simulation (GROMACS)
+- Digital Image Processing (ImageJ, Fiji, & CellProfiler)
+
 
 education:
   courses:
-  - course: PhD in Management Studies
-    institution: University of Hyderabad
-    year: 2019
-  - course: MBA in Tourism Studies
-    institution: Pondicherry University
-    year: 2008
-  - course: BA hons. in Russian Language
-    institution: Jawaharlal Nehru University
-    year: 2006
-  - course: BA in Tourism Studies
-    institution: IGNOU
-    year: 2006  
+  - course: PhD in Biotechnology
+    institution: National Institute of Technology Durgapur, India
+    year: Ongoing
+  - course: MTech in Biotechnology
+    institution: Indian Institute of Technology Guwahati, India
+    year: 2013
+  - course: MSc in Biotechnology
+    institution: SRTM University Nanded, India
+    year: 2009
+  - course: BSc in Chemistry, Botany & Zoology
+    institution: SRTM University Nanded, India
+    year: 2007   
     
 
 # Social/Academic Networking
@@ -62,10 +75,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/Ravindra_Raut_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "koliajaykumar@gmail.com"
+email: "raviraut206@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,8 +87,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a rstats educator and researcher of waste and livelihoods. Right now, full time Assistant Professor in the Travel and Tourism department of [Vishwakarma University](https://www.vupune.ac.in/) - Pune, India. 
+I am a Ph D. candidate with research experience in experimental and computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular cell biology, genetics. I'm always looking to connect with people in related fields and explore opportunities.
 
-I further like to teach research methods (quantitative as well as qualitative) using [R](https://www.r-project.org/). I support open-source software R to promote reproducibility and transparency in research and academia.
-
-I like to read, write and think about the sustainability and climate change.
