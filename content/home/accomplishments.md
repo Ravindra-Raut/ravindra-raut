@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Würzburg"
+  organization = "Ministry of Education"
   organization_url = ""
-  title = "DAAD Student Exchange Research Stay Fellowship"
+  title = "Institute fellowship"
   url = ""
   certificate_url = ""
-  date_start = "2014-01-01"
-  date_end = "2014-02-28"
+  date_start = "2014-09-02"
+  date_end = "2019-08-30"
   description = ""
 
 [[item]]
