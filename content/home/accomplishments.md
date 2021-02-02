@@ -57,4 +57,15 @@ date_format = "Jan 2006"
   date_start = "2014-04-01"
   date_end = ""
   description = ""
+  
+  [[item]]
+  organization = "Institute of Bioresources and Sustainable Development, Imphal "
+  organization_url = ""
+  title = "Best Poster Presentation Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-12-05"
+  date_end = "2012-12-07"
+  description = "for poster in nternational Consultative Meeting on Seribiotechnology"
+  
 +++
