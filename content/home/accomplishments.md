@@ -48,4 +48,13 @@ date_format = "Jan 2006"
   date_end = "2014-01-01"
   description = ""
 
+[[item]]
+  organization = "Indian Council of Agricultural Research"
+  organization_url = ""
+  title = "ICMR-National Eligibility Test"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-01-01"
+  date_end = "2014-01-01"
+  description = ""
 +++
