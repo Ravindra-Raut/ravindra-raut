@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://tdu.edu.in/"
   location = "Bengaluru"
   date_start = "2019-04-11"
-  date_end = "2020-09-11"
+  date_end = "2019-09-11"
   description = """Supervised graduate and undergraduate students working on research projects on transposable element analysis in rice genome.
   
   Responsibilities include:
@@ -33,17 +33,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Assistant Professor"
-  company = "Vishwakarma University"
-  company_url = "https://www.vupune.ac.in/"
-  location = "Pune"
-  date_start = "2021-01-14"
-  date_end = ""
-  description = """Full time faculty of Research Methods and Sustainable Tourism.
+  title = "Teaching Assistant"
+  company = "National Institute of Technology Durgapur"
+  company_url = "https://www.nitdgp.ac.in/"
+  location = "Durgapur"
+  date_start = "2016-02-14"
+  date_end = "2019-04-14"
+  description = """I assisted with the Bioinformatics Laboratory course to MTech Students. Prepared lessons according to course outline to convey all required material and deepen students' understanding for subject matter. I have overseen a class of 25 students for four years.
   Responsibilities include:
   
-  * Teaching graduate and post-graduate course
+  * Teaching 
   * Mentoring 
-  * Research
+  * Exam, Assingment and course evaluation
   """
 +++
