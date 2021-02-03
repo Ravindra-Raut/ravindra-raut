@@ -66,15 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- [[item]]
-  title = "Recent advances in the development of transgenic crop plants, biosafety aspects and future perspectives"
-  author = "Roy Barman, S, Ravindra A. Raut, et al."
-  url = ""
-  date_start = "2017-01-01"
-  date_end = ""
-  description = "Plant Biotechnology, Volume 2, Transgenics, Stress Management, and Biosafety Issues, Apple Academic Press, Hard ISBN: 9781771885812"
- 
- 
 +++
 
 {{% alert note %}}
