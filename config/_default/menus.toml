@@ -20,12 +20,17 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#Publications"
   weight = 40
 
-[[main]]
+#[[main]]
   name = "Contact"
   url = "#contact"
+  weight = 60
+
+[[main]]
+  name = "Certifications"
+  url = "#Certifications"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
