@@ -79,8 +79,7 @@ I am a Ph D. candidate with research experience in experimental and computationa
 ### Skills ###
 **Programming**
 - Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/))
-- Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/))  <br/> <br/>
-
+- Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/))<br/> 
 **Computational Biology**
 - Multi-omics (Secondary and tertiary analysis of NGS data)
 - Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl Plants ](http://plants.ensembl.org/index.html))
