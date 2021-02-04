@@ -52,9 +52,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ravindra__Raut
-#- icon: google-scholar
-# icon_pack: ai
-# link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/Ravindra-Raut/
