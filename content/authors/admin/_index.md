@@ -15,7 +15,7 @@ role: PhD Student
 
 organizations:
 - name: National Institute of Technology Durgapur
-  url: https://www.nitdgp.ac.in/
+  url: https://nitdgp.ac.in
 
 # Short bio (displayed in user profile at end of posts)
 bio: My work includes transposon studies using R, Python, Linux and Bioinformatics tools.
@@ -60,9 +60,9 @@ social:
   link: https://github.com/Ravindra-Raut
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
