@@ -16,7 +16,5 @@ title : "Transposon Discovery and Annotation"
 date : "2018-11-1"
 Talk and Hands-on | 8th training on NGS and Analysis on Genomics, Transcriptome and transposons | Bengaluru, India, Nov. 2018 | 
 
-  
-  
-  
++++ 
 ---
