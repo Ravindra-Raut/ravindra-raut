@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto: raviraut206@gmail.com  # contact# For a direct email link, use "mailto:raviraut206@gmail.com".
+  link: 'contact'  # contact# For a direct email link, use "mailto:raviraut206@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ravindra__Raut
