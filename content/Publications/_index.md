@@ -16,7 +16,6 @@ list_format = 0
 image = ""
 caption = ""
 
-+++
 
 abstract = "Genetic improvement of crop plants is not new; we have been modifying
 plant genomes for thousands of years for our well-being. Development of
