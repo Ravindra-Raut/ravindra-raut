@@ -80,7 +80,7 @@ I am a PhD Student with research experience in experimental & computational geno
 **Programming**
 - Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/))
 - Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/))
-- Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/><br/> 
+- Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
 
 **Computational Biology**
 - Multi-omics (Secondary and tertiary analysis of NGS data)
