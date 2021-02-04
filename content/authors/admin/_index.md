@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'  # For a direct email link, use "mailto:raviraut206@gmail.com".
+  link: 'mailto:raviraut206@gmail.com'  # contact# For a direct email link, use "mailto:raviraut206@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ravindra__Raut
@@ -57,7 +57,11 @@ social:
   link: 
 - icon: github
   icon_pack: fab
+  link: https://github.com/Ravindra-Raut/
+- icon: linkdin
+  icon_pack: fab
   link: https://www.linkedin.com/in/ravindra-raut-9402bb69/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -69,7 +73,7 @@ email: "raviraut206@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+ user_groups:
 - Researchers
 - Visitors
 ---
