@@ -16,10 +16,6 @@ list_format = 0
 image = ""
 caption = ""
 
-- paper1
-auther: RR
-year:2020
-
 
 
 +++
