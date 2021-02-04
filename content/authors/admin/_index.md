@@ -78,12 +78,13 @@ I am a Ph D. candidate with research experience in experimental and computationa
 
 ### Skills ###
 - Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/))
-- Version control system or Source code management (SCM)([git](https://git-scm.com/), [GitHub](https://github.com/))
+- Version control system or Source code management([git](https://git-scm.com/), [GitHub](https://github.com/))
+
 - Multi-omics (Secondary and tertiary analysis of NGS data)
 - Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl Plants ](http://plants.ensembl.org/index.html))
 - Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/))
 - Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar))
-- Data visualization ([ggPlot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))
+- Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/))
 - Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/))
 - Molecular Simulation ([GROMACS](https://www.gromacs.org/))
