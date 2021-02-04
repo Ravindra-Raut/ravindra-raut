@@ -1,14 +1,37 @@
 +++
-abstract = "The 14-3-3 λ isoform is required for normal stomatal opening mediated by PHOT2 in Arabidopsis thaliana. Arabidopsis phototropin2 (PHOT2) interacts with the λ-isoform 14-3-3 protein both in yeast two-hybrid screening and in an in vitro pull-down assay. Further yeast two-hybrid analysis also showed that the PHOT2 C-terminal kinase domain was required for the interaction. Site-directed mutagenesis indicated that PHOT2 Ser-747 is essential for the yeast interaction. Phenotypic characterization of a loss-of-function 14-3-3 λ mutant in a phot1 mutant background showed that the 14-3-3 λ protein was necessary for normal PHOT2-mediated blue light-induced stomatal opening. PHOT2 Ser-747 was necessary for complementation of the blue light-activated stomatal response in a phot1 phot2 double mutant. The 14-3-3 λ mutant in the phot1 mutant background allowed normal phototropism and normal chloroplast accumulation and avoidance responses. It also showed normal stomatal opening mediated by PHOT1 in a phot2 mutant background. The 14-3-3 κ mutant had no effect on stomatal opening in response to blue light. Although the 14-3-3 λ mutant had no chloroplast movement phenotype, the 14-3-3 κ mutation caused a weaker avoidance response at an intermediate blue light intensity by altering the balance between the avoidance and accumulation responses. The results highlight the strict specificity of phototropin-mediated signal transduction pathways.."
-authors = ["Tseng TS, Whippo C, Hangarter RP, Briggs WR."]
-date = "2013-03-01"
+abstract = "Genetic improvement of crop plants is not new; we have been modifying
+plant genomes for thousands of years for our well-being. Development of
+transgenic crop plants is an outcome of increasing human population and
+incidence of biotic/abiotic stress determinants. The cost-effective approach
+of genetic engineering allows for a relatively fast cross-species gene transfer.
+A number of crop plants have been genetically engineered for resistance
+to insect pests, fungal and viral pathogens, nematodes etc. using a variety
+of approaches. Genetically modified crop plants have been developed for
+tolerance to various abiotic stress conditions such as osmosis, salt, drought,
+temperature, environmental pollutants and so on. Plants have been engineered
+for better nutrient utilization as well as enhancement of nutrition
+quality in food. Crop plants have been engineered for molecular farming
+in order to generate sufficient antigenic vaccines, antibodies, netraceutical
+and therapeutic proteins. Recently, plant genomes have also been modified
+for enhancement in the production of biofuel. It is natural to think about the
+biosafety aspects of transgenic crop plants especially with respect to health
+and ecological issues. The cause of concern arises due to the phenomena
+of various types of gene flow in nature. The selectable markers can be
+removed from the genetically engineered plants using approaches such as
+co-transformation, multi-autotransformation, site-specific recombination,
+Cre/lox recombination system etc. Recently, genome editing technology,
+which allows plant breeding without introducing a transgene, is expected to
+generate many new crop varieties with traits that can satisfy various kinds of
+demands for commercialization genetically improved crop plants"
+authors = ["Subhankar. Roy-Barman, Ravindra A. Raut, Atrayee Sarkar, Nazmiara Sabnam, Sanjukta Chakraborty, Pallabi Saha"]
+date = "2017-03-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Plant Cell*"
+publication = "In *Apple Academic Press*"
 publication_short = "#"
 selected = true
-title = "The role of a 14-3-3 protein in stomatal opening mediated by PHOT2 in Arabidopsis."
+title = "Recent Advances in the Development of Transgenic Crop Plants, Biosafety Aspects, and Future Perspectives."
 url_code = ""
 url_dataset = ""
 url_pdf = ""
@@ -18,7 +41,7 @@ url_video = ""
 
 [[url_custom]]
 name = "Read the paper"
-url = "http://www.plantcell.org/content/24/3/1114.long"
+url = "https://www.taylorfrancis.com/chapters/recent-advances-development-transgenic-crop-plants-biosafety-aspects-future-perspectives-subhankar-roy-barman-ravindra-raut-atrayee-sarkar-nazmiara-sabnam-sanjukta-chakraborty-pallabi-saha/e/10.1201/9781315213736-10"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
