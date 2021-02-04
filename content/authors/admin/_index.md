@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'  For a direct email link, use "mailto:raviraut206@gmail.com".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ravindra__Raut
@@ -57,23 +57,26 @@ social:
   link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/Ravindra-Raut/
-
+  link: https://github.com/Ravindra-Raut
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "raviraut206@gmail.com"
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
- user_groups:
+user_groups:
 - Researchers
 - Visitors
 ---
+
 
 I am a PhD Student with research experience in experimental & computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular biology, genetics. I'm always looking to connect with people in related fields and explore opportunities.
 
