@@ -59,7 +59,7 @@ social:
   icon_pack: fab
   link: https://github.com/Ravindra-Raut
 - icon = linkedin-in
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/ravindra-raut-9402bb69
   
 # Link to a PDF of your resume/CV.
