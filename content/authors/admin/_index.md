@@ -58,9 +58,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Ravindra-Raut
-- icon: linkdin
-  icon_pack: fas
-  link: https://www.linkedin.com/in/ravindra-raut-9402bb69
+
+[[social]]
+ icon = "linkedin-in"
+  icon_pack: "fas"
+  link: "https://www.linkedin.com/in/ravindra-raut-9402bb69"
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
