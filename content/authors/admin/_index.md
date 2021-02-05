@@ -47,26 +47,20 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-icon_pack: fas
-link: "#contact"  # For a direct email link, use "mailto:raviraut206@gmail.com"
-
-
+  icon_pack: fas
+  link: "#contact"  # For a direct email link, use "mailto:raviraut206@gmail.com"
 - icon: twitter
-icon_pack: fab
-link: "https://twitter.com/Ravindra__Raut"
-
+  icon_pack: fab
+  link: "https://twitter.com/Ravindra__Raut"
 - icon: google-scholar
-icon_pack: ai
-link: " "
-
-
+  icon_pack: ai
+  link: " "
 - icon: github
-icon_pack: fab
-link: "https://github.com/Ravindra-Raut"
-
+  icon_pack: fab
+  link: "https://github.com/Ravindra-Raut"
 - icon = linkedin-in
-icon_pack: fas
-link: "https://www.linkedin.com/in/ravindra-raut-9402bb69"
+  icon_pack: fas
+  link: "https://www.linkedin.com/in/ravindra-raut-9402bb69"
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
