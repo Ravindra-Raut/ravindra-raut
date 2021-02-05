@@ -45,22 +45,25 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: "#contact"  # For a direct email link, use "mailto:raviraut206@gmail.com"
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ravindra__Raut
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
   link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/Ravindra-Raut
-- icon = linkedin-in
+- icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ravindra-raut-9402bb69
+  link: https://www.linkedin.com/ravindra-raut-9402bb69
+
+  
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
