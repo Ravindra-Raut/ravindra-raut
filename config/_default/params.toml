@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "raviraut206@gmail.com"
+# email = "raviraut206@gmail.com"
 #phone = "888 888 88 88"
 
 # Address
@@ -128,7 +128,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "Ravindra__Raut"
 
 ############################
 ## Regional Settings
