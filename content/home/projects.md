@@ -26,12 +26,17 @@ subtitle = ""
     tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "MTech project"
+     tag = "Development of Seri-Bioresource database"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "MSc project"
+     tag = "Isolation, purification and properties of peroxidase from hull of *Glycine max* L.(Soybean)"
+   
+   [[content.filter_button]]
+     name = "Intership Project"
+     tag = "A-plants 1.0: (Home remedies by our grand’s) Ayurvedic Plant Database with its Medicinal Applications"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
