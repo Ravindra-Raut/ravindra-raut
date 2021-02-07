@@ -6,7 +6,7 @@ subtitle: Welcome 👋 We know that first impressions are important, so we've po
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
-projects: []
+projects: [1]
 
 # Date published
 date: "2020-12-13T00:00:00Z"
@@ -18,7 +18,7 @@ lastmod: "2020-12-13T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
