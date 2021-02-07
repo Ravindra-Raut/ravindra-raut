@@ -26,28 +26,27 @@ subtitle = ""
     tag = "*"
   
    [[content.filter_button]]
-     name = "MTech project"
-     tag = "Development of Seri-Bioresource database"
+     name = "SBDB"
+     tag = "sbdb"
   
    [[content.filter_button]]
-     name = "MSc project"
-     tag = "Isolation, purification and properties of peroxidase from hull of *Glycine max* L.(Soybean)"
+     name = "A-Plants"
+     tag = "a-plants"
    
-   [[content.filter_button]]
-     name = "Intership Project"
-     tag = "A-plants 1.0: (Home remedies by our grand’s) Ayurvedic Plant Database with its Medicinal Applications"
-
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
