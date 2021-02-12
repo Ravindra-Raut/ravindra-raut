@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = '<a href="https://ravindra-raut.netlify.com/publication/">See all publications</a>'
+subtitle = '<a href="https://ravindra-raut.netlify.com/publication/">See all publication</a>'
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
