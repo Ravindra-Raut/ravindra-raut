@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-09-02"
   date_end = "2019-08-30"
-  description = "for PhD research"
+  description = "for pre doctoral research"
 
 [[item]]
   organization = "Minister of Human Resource Development"
