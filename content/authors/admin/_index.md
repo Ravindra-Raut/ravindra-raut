@@ -18,7 +18,7 @@ organizations:
   url: https://nitdgp.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work includes transposon studies using R, Python, Linux and Bioinformatics tools.
+bio: I am PhD Student in National Institute of Technology Durgapur.
 
 interests:
 - Transposable Elements
