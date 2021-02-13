@@ -15,8 +15,8 @@ categories:
 - netlify
 - academic
 
-date: "2019-11-21T00:00:00Z"
-lastmod: "2019-11-21T00:00:00Z"
+date: "2021-02-12T00:00:00Z"
+lastmod: "2021-02-12T00:00:00Z"
 featured: true
 draft: false
 
