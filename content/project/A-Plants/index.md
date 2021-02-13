@@ -33,7 +33,7 @@ slides: example
 ---
 
 <h2>Description</h2>
-A-Plants 1.0 (Home remedies by our grand’s) provides detailed information of plants having medicinal applications. Although the ayurvedic plants has been used for remedies and food for more than a thousand years, most people used these based on their experiences without any knowledge about relationships between biological activities and constituents of these plants or its transformation products. The functional role of spices and their constituents is a strong topic in food-related plant research. Spices, in fact, are actually not only evaluated for their seasoning properties, but are also appreciated for their bioactive activities such as bacteriostatic, fungicides, antioxidants and nutrient constitutions. This database will be useful for researcher, students and curious personnel in ayurvedic medicinal studies.
+<p style='text-align: justify;'>A-Plants 1.0 (Home remedies by our grand’s) provides detailed information of plants having medicinal applications. Although the ayurvedic plants has been used for remedies and food for more than a thousand years, most people used these based on their experiences without any knowledge about relationships between biological activities and constituents of these plants or its transformation products. The functional role of spices and their constituents is a strong topic in food-related plant research. Spices, in fact, are actually not only evaluated for their seasoning properties, but are also appreciated for their bioactive activities such as bacteriostatic, fungicides, antioxidants and nutrient constitutions. This database will be useful for researcher, students and curious personnel in ayurvedic medicinal studies.</p>
 
 
 
