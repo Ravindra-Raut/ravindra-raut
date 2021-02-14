@@ -91,11 +91,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
  email = "raviraut206@gmail.com"
-#phone = "888 888 88 88"
+ phone = "+91 700 190 2565"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "", city = "Durgapur", region = "West Bengal,India", postcode = "713209", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -114,8 +114,8 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`. 
 contact_links = [
-   {icon = "envelope", icon_pack = "fas", name = "Send me an email", link = "mailto: raviraut206@gmail.com"},
-   {icon = "twitter", icon_pack = "fab", name = "Message Me on Twitter", link = "https://twitter.com/Ravindra__Raut"},
+   {icon = "envelope", icon_pack = "fas", name = "Send an email", link = "mailto: raviraut206@gmail.com"},
+   {icon = "twitter", icon_pack = "fab", name = "Message on Twitter", link = "https://twitter.com/Ravindra__Raut"},
    {icon = "slack", icon_pack = "fab", name = "stay connected on Slack", link = "https://app.slack.com/client/TG7HJ1KDJ/CG7UZ382H/user_profile/UGA72026P"}
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
