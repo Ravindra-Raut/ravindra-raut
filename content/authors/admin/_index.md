@@ -47,21 +47,27 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.   
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Ravindra__Raut
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Ravindra-Raut
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/ravindra-raut-9402bb69
+  link: https://www.linkedin.com/in/ravindra-raut-9402bb69/
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: 
+# - icon: orcid
+ # icon_pack: ai
+ # link: 
+# - icon: researchgate
+ # icon_pack: ai
+ # link: 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Ravindra-Raut/
+# - icon: stack-overflow
+ # icon_pack: fab
+ # link: 
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
   
   
