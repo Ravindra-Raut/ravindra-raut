@@ -95,7 +95,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Durgapur", region = "West Bengal,India", postcode = "713209", country = "India", country_code = "IN"}
+address = {street = "", city = "Durgapur", region = "West Bengal, India", postcode = "713209", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
