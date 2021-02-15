@@ -27,31 +27,37 @@
   name = "Projects"
   url = "#04_project"
   weight = 5
-  
+ 
+ [[main]]
+  name = "Posters"
+  url = "#10_posters"
+  weight = 6
+ 
+ 
 [[main]]
   name = "Publications"
   url = "#05_publication"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "Talks"
   url = "#06_talks"
-  weight = 7
+  weight = 8
 
 [[main]]
   name = "Certification"
   url = "#07_certification"
-  weight = 8
+  weight = 9
 
 #[[main]]
   #name = "Posts"
   #url = "#08_posts"
-  #weight = 9
+  #weight = 10
 
 [[main]]
   name = "Contact"
   url = "#09_contact"
-  weight = 10
+  weight = 11
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
