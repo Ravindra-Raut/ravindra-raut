@@ -1,6 +1,5 @@
 ---
-title: posters
-
+title: Posters
 
 # View.
 #   1 = List
@@ -8,9 +7,10 @@ title: posters
 #   3 = Card
 view: 1
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
+
 
