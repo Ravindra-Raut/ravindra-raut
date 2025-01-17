@@ -21,9 +21,12 @@ Visualization: Matplotlib 📉 | ggplot2 🎨
 Molecular Biology Expertise:
 Techniques: PCR, Cloning, DNA/RNA/Protein Isolation
 Applications: Heterologous Expression | Enzymatic Assays
+
 🏆 Achievements
-🎓 GATE Fellowship | 🥇 Best Poster Award
-🏅 ICMR-JRF & ICAR-NET
+🎓 GATE Fellowship | 
+🥇 Best Poster Award
+🏅 ICMR-JRF
+🏅 ICAR-NET
 🌍 BioC2021 Scholarship
 🌍 Gyan Fellowship 2019
 
