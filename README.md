@@ -20,7 +20,5 @@ Workflow Management: Nextflow 🚀 | Galaxy | Docker 🐳
 Molecular Simulations: GROMACS | AutoDock Vina
 Visualization: Matplotlib 📉 | ggplot2 🎨
 
-📊 GitHub Stats
-
 
 
